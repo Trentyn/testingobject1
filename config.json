@@ -2,7 +2,7 @@
   "AUTH": {
     "ENABLE": true,
     "PASSWORD": "peterParker4ever",
-    "USERS": [5284416501]
+    "USERS": []
   },
   "SPOTDL_DOWNLOADER": true,
   "SPOTIFYDL_DOWNLOADER": false
