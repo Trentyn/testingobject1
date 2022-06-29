@@ -1,6 +1,6 @@
 {
-    "name": "SpotifyTelegramDownload",
-    "description": "Grabs song from spotify and sends it to telegram",
+    "name": "TrueTelegramBot",
+    "description": "Great Support Bot",
     "env": {
         "TELEGRAM_TOKEN": {
             "description": "Get this value by making a bot from @BotFather.",
